@@ -1,0 +1,2 @@
+for the paper prototype we kept in mind about the levels(easy,medium,hard) of the geme. we make sure that the interface is easy for the users to use.
+overall the prototype was made to be very simple for users to use. 
